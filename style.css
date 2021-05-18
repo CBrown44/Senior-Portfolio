@@ -2,3 +2,35 @@
     background: #2C3D55;
     color: #DEE7E7;
 }
+
+h1{
+    color: #547aa5;
+}
+
+h2{
+    color: #547aa5;
+}
+
+h3{
+   color: #547aa5;
+}
+
+p{
+    color: #D8D5DB;
+}
+
+#contactLink1{
+    align-items: center;
+}
+#contactLink2{
+    align-items: center;
+}
+#contactLink3{
+    align-items: center;
+}
+#contactLink4{
+    align-items: center;
+}
+#contactLink5{
+    align-items: center;
+}
